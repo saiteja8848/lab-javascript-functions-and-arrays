@@ -59,7 +59,7 @@ You can use the following array to test your solution:
 const prices = [200, 120, 100, 108, 135, 162, 25, 170, 80, 110];
 ```
 
-### Progression #3.1 (Bonus): A generic `sum()` function
+### Progression #3.1 (Bonus): A generic `sum()` function 
 
 **The goal: Learn how to refactor your code.** :
 
@@ -67,7 +67,7 @@ In progression 3, you created a function that returns the sum of an array of pri
 
 Here we're applying a concept we call **polymorphism**, that is, dealing with a functions' input independent of the types of data passed.
 
-Let's create a new function `add()` that calculates the sum for array filled with (_almost_) any type of data. Note that strings should have their length added to the total, and boolean values should be coerced into their corresponding numeric values. Check the tests for more details.
+Let's create a new function `add()` that calculates the sum for array filled with (_almost_) any type of data. Note that strings should have their length added to the total, and boolean values should be coerced into their corresponding numeric values. Check the tests for more details.//got 
 
 You can use the following array to test your solution:
 
